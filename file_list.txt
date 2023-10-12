@@ -1,0 +1,5 @@
+total 0
+-rw-r--r-- 1 ddong 197609 0 Sep 28 20:55 backup_text1.txt
+-rw-r--r-- 1 ddong 197609 0 Oct  5 21:56 file_list.txt
+-rw-r--r-- 1 ddong 197609 0 Sep 28 20:52 test1.txt
+drwxr-xr-x 1 ddong 197609 0 Sep 28 21:07 test_porder/

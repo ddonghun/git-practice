@@ -1,0 +1,131 @@
+    1  pwd
+    2  ls
+    3  cd Downloads
+    4  ls
+    5  pwd
+    6  cd home
+    7  cd..
+    8  cd ..
+    9  cd ..
+   10  ls
+   11  pwd
+   12  ls
+   13  ddong
+   14  ddong/
+   15  cd ddong
+   16  ls
+   17  ls -l
+   18  ls -lh
+   19  cd ..
+   20  ls
+   21  cd ddong
+   22  ls
+   23  cd video
+   24  cd videos
+   25  ls
+   26  ls lh
+   27  ls -lh
+   28  cd ..
+   29  ls
+   30  ls
+   31  cd Videos/
+   32  clear
+   33  cd ..
+   34  ls
+   35  cd Linux
+   36  ls
+   37  cp test1.txt
+   38  ls
+   39  test1.txt backup_text1.txt
+   40  ls
+   41  cp test1.txt backup_text1.txt
+   42  ls
+   43  cd -r ../Videos/
+   44  cd -r ../Videos .
+   45  ls
+   46  cp -r ../Videos .
+   47  ls
+   48  ls -r
+   49  mv Videos/
+   50  mv -r Videos/
+   51  mv -r Videos.
+   52  mv -r Videos .
+   53  mv Videos vid
+   54  rm vid
+   55  rm -r vid
+   56  ls
+   57  mkdir test_forder
+   58  ls
+   59  mv test_forder test_porder
+   60  ls
+   61  cp *.txt text_porder
+   62  ls
+   63  cd test_porder
+   64  ls
+   65  ls
+   66  cd ..
+   67  ls
+   68  cp *.txt test_porder/
+   69  ls
+   70  cd test_porder/
+   71  ls
+   72  ls *.txt
+   73  rm *.txt
+   74  ls
+   75  cd ..
+   76  cp *.txt test_porder/
+   77  cd test_porder
+   78  ls
+   79  man cp
+   80  man cp
+   81  help cp
+   82  help cd
+   83  man cp
+   84  man cd
+   85  exit
+   86  ls
+   87  cd Linux
+   88  ls
+   89  ls -lh
+   90  ls -lh > file_list.txt
+   91  ls
+   92  cat test1.txt
+   93  cat test1.txt
+   94  cat file_list.txt 
+   95  sort < test1.txt
+   96  ls -lh | less
+   97  ls | wc -1
+   98  ls | wc
+   99  ls | wc -l
+  100  echo ~
+  101  echo ~ddong
+  102  ls -l
+  103  chmod 666 test1.txt
+  104  ls -lh
+  105  chmod 666 test1
+  106  chmod 666 test1.txt
+  107  ls -l
+  108  chmod 640 test1.txt
+  109  ls -l
+  110  chmod 644 test1.txt
+  111  ls -l
+  112  chmod 664 test1.txt
+  113  ls -l
+  114  sudo chmod 664 test1.txt
+  115  ls -l
+  116  chmod 664 test1.txt
+  117  ls -l
+  118  exit
+  119  chmod 664 test1.txt
+  120  ls
+  121  cd Linux
+  122  chmod 664 test1.txt
+  123  ls -l
+  124  nano myscript.sh
+  125  sh myscript.sh
+  126  nano myscript.sh
+  127  nano myscript.sh
+  128  nano myscript.sh
+  129  sh myscript.sh
+  130  history
+  131  history > history_command.txt
